@@ -3,15 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/hamburgueria/EnderecoList.php</file>
-            <file>file:/C:/xampp/htdocs/hamburgueria/menuLateral.php</file>
-            <file>file:/C:/xampp/htdocs/hamburgueria/modelo/vo/Endereco.php</file>
-            <file>file:/C:/xampp/htdocs/hamburgueria/controle/enderecoControl.php</file>
-            <file>file:/C:/xampp/htdocs/hamburgueria/ProdutoAddEdit.php</file>
-            <file>file:/C:/xampp/htdocs/hamburgueria/EnderecoAddEdit.php</file>
-            <file>file:/C:/xampp/htdocs/hamburgueria/controle/usuarioControl.php</file>
-            <file>file:/C:/xampp/htdocs/hamburgueria/modelo/dao/ProdutoDAO.php</file>
-            <file>file:/C:/xampp/htdocs/hamburgueria/controle/produtoControl.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/modelo/dao/UsuarioDAO.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/controle/enderecoControl.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/modelo/vo/CategoriaProduto.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/controle/categoriaprodutoControl.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/modelo/dao/EnderecoDAO.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/menuLateral.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/CategoriaProdutoAddEdit.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/EnderecoAddEdit.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/modelo/dao/CategoriaProdutoDAO.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/CategoriaProdutoList.php</file>
+            <file>file:/D:/Program%20Files/Xampp/htdocs/hamburgueria/controle/usuarioControl.php</file>
         </group>
     </open-files>
 </project-private>

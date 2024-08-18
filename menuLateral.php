@@ -43,6 +43,19 @@
                     </div>
                 </div>
             </li>
+            <li class="nav-item">
+                <a class="nav-link collapsed" data-toggle="collapse" data-target="#collapseCategoriaProduto"
+                    aria-expanded="true" aria-controls="collapseCategoriaProduto">
+                    <i class="fas fa-hamburger"></i>
+                    <span>Categoria de Produtos</span>
+                </a>
+                <div id="collapseCategoriaProduto" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        <a class="collapse-item" href="CategoriaProdutoAddEdit.php">Adicionar</a>
+                        <a class="collapse-item" href="CategoriaProdutoList.php">Listar</a>
+                    </div>
+                </div>
+            </li>
             
             <li class="nav-item">
                 <a class="nav-link collapsed" data-toggle="collapse" data-target="#collapseEndereco"
@@ -74,7 +87,7 @@
             <li class="nav-item">
                 <a class="nav-link collapsed" data-toggle="collapse" data-target="#collapseProduto"
                     aria-expanded="true" aria-controls="collapseProduto">
-                    <i class="fas fa-hamburger"></i>
+                    <i class="fas fa-utensils"></i>
                     <span>Produto</span>
                 </a>
                 <div id="collapseProduto" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
